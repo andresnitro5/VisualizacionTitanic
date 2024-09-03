@@ -31,3 +31,5 @@ plt.title('Grafico de dispersion')
 plt.xlabel('Eje X')
 plt.ylabel('Eje Y')
 plt.show()
+
+print("Soy el perfil secundario de git y este es mi aporte al repositorio principal en la misma maquina.")
